@@ -10,12 +10,6 @@
   <img src="https://github.com/Thordata/Test-Img/raw/main/test-img/728%20x%2090%20(2).gif" alt="Thordata Logo" /></a>
 </p
 
-<p align="center">
-  <a href="https://thordata.example.com" target="_blank" title="Visit Thordata" >
-    <img src="https://raw.githubusercontent.com/Thordata/Test-Img/main/test-img/banner.gif" alt="Thordata Logo" />
-  </a>
-</p>
-
 ## 🚀 Core Open‑Source Projects
 | Project | Description | Link |
 |--------|-------------|------|
