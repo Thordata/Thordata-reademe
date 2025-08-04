@@ -1,8 +1,20 @@
-# Welcome to Thordata GitHub 🧠
-* Easy Access to Web Data at Scale,Perfect for AI • [thordata.com](https://www.thordata.com/)
+<h2 align="center">
+  Welcome to Thordata GitHub🧠
+</h2>
+
+* Easy Access to Web Data at Scale, Perfect for AI • [thordata.com](https://www.thordata.com/)
 
 ---
-![Thordata Logo](http://www.w3.org/2000/svg)
+<p align="center">
+   <a href="https://www.thordata.com/">
+  <img src="https://github.com/Thordata/Test-Img/raw/main/test-img/728%20x%2090%20(2).gif" alt="Thordata Logo" /></a>
+</p
+
+<p align="center">
+  <a href="https://thordata.example.com" target="_blank" title="Visit Thordata" >
+    <img src="https://raw.githubusercontent.com/Thordata/Test-Img/main/test-img/banner.gif" alt="Thordata Logo" />
+  </a>
+</p>
 
 ## 🚀 Core Open‑Source Projects
 | Project | Description | Link |
