@@ -17,8 +17,8 @@
 | **workshop‑frac‑scraping** | Tutorial & workshop code | [→](https://github.com/Thordata/workshop-frac-scraping) |
 
 ## 🧰 SDKs & Integrations
-- **thordata‑sdk‑java** – Java bindings & client
-- **thordata‑cli** – Command‑line helper tools
+- **sdk‑java** – Java bindings & client
+- **thordata‑cli** – Command‑line helper tools(Test)
 
 ## 📚 Tutorials & Guides
 - `web‑scraping‑with‑thordata` – Quick start for data scraping
